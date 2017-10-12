@@ -1,0 +1,4 @@
+- ICONIX ( Esto es teoría)
+- GIT ( clonar, commitear, pushear, crear branchs)
+- Patrones SOLID
+- Patrones de Diseño ( facade, prototype, observer)

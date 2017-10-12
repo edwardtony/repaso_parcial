@@ -1,0 +1,15 @@
+git init -> "Comenzar / Crear un proyecto"
+git clone -> "Clona un proyecto y crea el enlace (remote)"
+git status -> "Mostrar los últimos cambios que no han sido añadidos"
+git add -> "Añade los archivos al estado previo del comiteo"
+
+
+
+
+
+
+
+
+									GIT - ESTADOS
+
+Nuevo/modificado -> Añadido / Agregado
