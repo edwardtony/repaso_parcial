@@ -1,15 +1,18 @@
+COMANDOS
 git init -> "Comenzar / Crear un proyecto"
 git clone -> "Clona un proyecto y crea el enlace (remote)"
 git status -> "Mostrar los últimos cambios que no han sido añadidos"
-git add -> "Añade los archivos al estado previo del comiteo"
+git add . -> "Añade los archivos al estado previo del comiteo"
+git commit -m "Mensaje" -> "Añade los archivos al estado -commiteado-"
 
-
-
-
-
-
+PROCEDIMIENTO
+1) Clonar el proyecto con  - git clone ruta-
+2) Modificar o crear archivos, todo lo que tenga que ver con el examen.
+3) Agregar TODOS los archivos con - git add .-
+4) Commitear los archivos añadidos con - git commit -m "Mensaje" -
+5) Súbelo al servidor con - git push origin master -
 
 
 									GIT - ESTADOS
 
-Nuevo/modificado -> Añadido / Agregado
+Nuevo/modificado -> Añadido / Agregado -> Commiteado -> Pusheado
